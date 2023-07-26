@@ -6,5 +6,5 @@ Hallo ini saya punya tugas day 08:
 
 https://demisonwonda.github.io/tugas-sacode-html-day-08/
 
-![Uploading images.png…]("img.png");
+
 
